@@ -1,10 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point
+ * main - print a c program using printf
  *
- * Return: Always 0 (Success)
- */
+ * Return: 0
+*/
 int main(void)
 {
-	puts("\"Programming is like building a multilingua puzzle");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (o);
 }
