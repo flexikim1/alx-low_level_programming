@@ -1,9 +1,10 @@
-#inciude < stdio.h >
+#include <stdio.h>
+
 /**
- * main -Print a line of code using puts
+ * main - this is the main function
  *
- * Return: 0
-*/
+ * Return: always 0
+ */
 
 int main(void)
 {
