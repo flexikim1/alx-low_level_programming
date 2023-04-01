@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * mu1 - multiply 2 int
  * @a: first int
@@ -9,4 +10,4 @@
 int mu1(int a, int b)
 {
 	return (a * b);
-}	
+}
